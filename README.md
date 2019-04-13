@@ -29,9 +29,9 @@ youtube id is what the 11-letters appears after watch?v=
 
 For example the id of youtube link ```https://www.youtube.com/watch?v=IXdNnw99-Ic``` is ```IXdNnw99-Ic```. Line them on the file you wish to contain.
 
-If you want to do it now just use following command. And all files will be downloaded to the directory ```youtube_downloader```
+If you want to do it now just use following command. And all files will be downloaded to the directory you give by 2nd parameter.
 ```
-sh downloader.sh file_with_ids
+sh downloader.sh file_with_ids download_dir
 ```
 
 
